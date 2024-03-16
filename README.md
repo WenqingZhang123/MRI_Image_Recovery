@@ -19,6 +19,6 @@ Average PSNR: 18.444936407180997, Average SSIM: 0.4365680582695538
 <br>
 Average PSNR: 17.82705160701385, Average SSIM: 0.5576938590089899
 <br>
-![The result for MRI Recovery](./)
+![The result for MRI Recovery](./Result_pdf/Result.png)
 
 
