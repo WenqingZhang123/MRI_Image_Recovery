@@ -17,5 +17,5 @@ Average PSNR: 28.47056291727579, Average SSIM: 0.787660166949376
 <br>
 ![The result for MRI Recovery](./result_pdf/Result_presentation1.png)
 
-## Imporve
+## Improve
 Currently, the layer of U-net is a little bit of shallow. And the more deeper network will prove the perfermance of model.
