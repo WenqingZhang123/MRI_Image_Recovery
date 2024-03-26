@@ -1,7 +1,7 @@
 # MRI_Image_Recovery
 
 ## Introduction
-This is my work for the lab's thredshold.
+This is part of my work for the CIG lab.
 The image data type is complex, which includes the real and imag.
 
 ## Data Set 
